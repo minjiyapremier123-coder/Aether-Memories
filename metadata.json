@@ -1,0 +1,10 @@
+{
+  "name": "Loved One Memory Chatbot",
+  "description": "A comforting, highly empathetic space where you can create memorial profiles of loved ones, calibrate their synthesized voices from audio recordings, and have real-time voice and text conversations guided by advanced sentiment and emotional analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
